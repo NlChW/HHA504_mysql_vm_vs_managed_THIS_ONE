@@ -7,6 +7,5 @@ __pycache__/
 .venv/
 venv/
 
-# mac/windows junk
+# mac
 .DS_Store
-Thumbs.db
